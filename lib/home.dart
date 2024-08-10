@@ -114,7 +114,7 @@ class _myHomeState extends State<myHome> {
       appBar: AppBar(
         centerTitle: true,
         backgroundColor: Colors.blue.shade200,
-        title: Text('ToDo'),
+        title: Text('ToDo App'),
         elevation: 0,
         actions: [
           Padding(
